@@ -1,0 +1,19 @@
+#resultados{
+    padding-top: 30px;
+}
+p{
+    border: 2px solid #f00;
+    background-color: #fcc;
+    display: none;
+    margin: 10px;
+    border-radius: 90px;
+    padding: 5px;
+}
+div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#entrada{
+    padding-top: 35vh;
+}
